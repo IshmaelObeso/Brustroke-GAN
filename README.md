@@ -1,7 +1,7 @@
 DEMO
 
-<img src="toucan.jpg" width="100" height="100">
-<img src="output_1581024838.7283819.gif" width="100" height="100">
+<img src="toucan.jpg" width="200" height="200">
+<img src="output_1581024838.7283819.gif" width="400" height="200">
 
 REQUIREMENTS
 -------------------------------------------------------------------------------------------------------------------------------
