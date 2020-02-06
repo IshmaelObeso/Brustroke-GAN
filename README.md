@@ -4,7 +4,9 @@ Example
 <img src="output_1581024838.7283819.gif" width="400" height="200">
 
 REQUIREMENTS
+
 -------------------------------------------------------------------------------------------------------------------------------
+
 Python3
 pytorch
 torchvision
@@ -14,6 +16,7 @@ pillow
 numpy
 matplotlib
 flask
+
 -------------------------------------------------------------------------------------------------------------------------------
 SETUP
 Ensure that all required libraries are installed before running
