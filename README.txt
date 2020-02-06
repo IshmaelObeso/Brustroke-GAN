@@ -1,6 +1,6 @@
 DEMO
-![Picture](toucan.jpg)
-![Gif](output_1581024838.7283819.gif)
+![Pic](toucan.JPG)
+![Gif](output_1581024838.7283819.GIF)
 
 
 
