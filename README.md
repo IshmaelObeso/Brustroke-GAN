@@ -1,6 +1,6 @@
 DEMO
 
-![Pic](toucan.jpg)
+![Pic](toucan.jpg=400x400)
 ![Gif](output_1581024838.7283819.gif)
 
 
