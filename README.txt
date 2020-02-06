@@ -1,6 +1,6 @@
 DEMO
-![toucan.jpg]
-![output_1581024838.7283819.gif]
+![](toucan.jpg)
+![](https://raw.githubusercontent.com/IshmaelObeso/Brustroke-GAN/master/output_1581024838.7283819.gif)
 
 
 
